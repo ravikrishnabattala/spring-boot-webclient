@@ -9,11 +9,11 @@
 		<relativePath/>
 		<!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.devtiro</groupId>
+	<groupId>com.vibesyncer</groupId>
 	<artifactId>resttemplate-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>resttemplate-server</name>
-	<description>Spring RestTemplate Tutorial Server</description>
+	<description>Spring RestTemplate Server</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
